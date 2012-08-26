@@ -1,13 +1,9 @@
 {
 	"cmd_hist":
 	{
-		"/home/gaoxiao/code/go":
+		"C:\\Users\\gaoxiao\\Desktop":
 		[
-			"go run"
-		],
-		"/home/gaoxiao/code/go/compare":
-		[
-			"go run"
+			"go get MarGo"
 		]
 	}
 }
