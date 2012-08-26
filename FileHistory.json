@@ -1,0 +1,188 @@
+{
+    "297dcfb5d10bb64eed13bffb10fd2299": {
+        "opened": [], 
+        "closed": [
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/mnt/hgfs/vmshare/HConsole/src/jline/example/Example.java"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/opt/hadoop/conf/slaves"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/mnt/hgfs/vmshare/HConsole/start_console.sh"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/mnt/hgfs/vmshare/HConsole/build.xml"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/.config/sublime-text-2/Packages/Markdown Slideshow/examples/base.md"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/.config/sublime-text-2/Packages/Markdown Slideshow/examples/base.html"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/.config/sublime-text-2/Packages/Markdown Preview/README.md"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/.config/sublime-text-2/Packages/Markdown-slideshow/README.md"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/code/go/compare/fo_fib.go"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/code/go/hello.go"
+            }, 
+            {
+                "index": 11, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/code/hadoop/conf/core-site.xml"
+            }
+        ]
+    }, 
+    "63624877c0f130115c6b12d50bed9aca": {
+        "opened": [
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/mnt/hgfs/vmshare/HConsole/src/jline/example/Example.java"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/mnt/hgfs/vmshare/HConsole/start_console.sh"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/.config/sublime-text-2/Packages/Markdown Slideshow/examples/base.md"
+            }, 
+            {
+                "index": 4, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/.config/sublime-text-2/Packages/Markdown Slideshow/examples/base.html"
+            }, 
+            {
+                "index": -1, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/.config/sublime-text-2/Packages/Markdown Preview/README.md"
+            }, 
+            {
+                "index": 2, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/code/go/compare/fo_fib.go"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/.config/sublime-text-2/Packages/Markdown-slideshow/README.md"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/code/go/hello.go"
+            }
+        ], 
+        "closed": [
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap"
+            }, 
+            {
+                "index": 9, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/.config/sublime-text-2/Packages/User/Preferences.sublime-settings"
+            }
+        ]
+    }, 
+    "global": {
+        "opened": [], 
+        "closed": [
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/mnt/hgfs/vmshare/HConsole/src/jline/example/Example.java"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/opt/hadoop/conf/slaves"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/mnt/hgfs/vmshare/HConsole/start_console.sh"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/mnt/hgfs/vmshare/HConsole/build.xml"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/.config/sublime-text-2/Packages/Markdown Slideshow/examples/base.md"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/.config/sublime-text-2/Packages/Markdown Slideshow/examples/base.html"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/.config/sublime-text-2/Packages/Markdown Preview/README.md"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/.config/sublime-text-2/Packages/Markdown-slideshow/README.md"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/code/go/compare/fo_fib.go"
+            }, 
+            {
+                "index": 0, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/code/go/hello.go"
+            }, 
+            {
+                "index": 11, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/code/hadoop/conf/core-site.xml"
+            }, 
+            {
+                "index": 3, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap"
+            }, 
+            {
+                "index": 9, 
+                "group": 0, 
+                "filename": "/home/gaoxiao/.config/sublime-text-2/Packages/User/Preferences.sublime-settings"
+            }
+        ]
+    }
+}
