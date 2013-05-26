@@ -3,6 +3,9 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
-		"MarkdownEditing"
+		"MarkdownEditing",
+		"Python Auto-Complete",
+		"GoSublime",
+		"Markdown Preview"
 	]
 }

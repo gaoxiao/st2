@@ -8,5 +8,15 @@
 			"path": "/tmp"
 	    }
     },
-	{ "keys": ["ctrl+alt+f"], "command": "reindent" }
+	{ "keys": ["ctrl+alt+f"], "command": "reindent" },
+	{ "keys": ["alt+shift+f"], "command": "eclipse_format_java" },
+	{ "keys": ["alt+["], "command": "previous_edit" },
+	{ "keys": ["alt+]"], "command": "next_edit" },
+
+	{ "keys": ["alt+left"], "command": "navigation_history_back"},
+	{ "keys": ["alt+right"], "command": "navigation_history_forward"},
+
+	// python
+	{ "keys": ["alt+d"], "command": "goto_python_definition"},
+	{ "keys": ["alt+shift+r"], "command": "python_refactor_rename"}
 ]
